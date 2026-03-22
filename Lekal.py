@@ -67,7 +67,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown('<div class="main-header">⚡ 嵐教練專屬課程管理</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header">⚡ 嵐教練課程管理</div>', unsafe_allow_html=True)
 
 # === [視覺化日曆區塊] ===
 with st.container():
